@@ -4,6 +4,10 @@
 **Assessment:** HCL Assessment  
 **Focus areas:** Advanced SQL, Linux, PySpark Data Engineering, AWS Cloud Services, AWS Step Functions, and Microsoft Azure
 
+## 📄 Assessment PDF
+
+[View HCL Assessment PDF](./HCL%20Assessment.pdf)
+
 ---
 
 ## Table of Contents

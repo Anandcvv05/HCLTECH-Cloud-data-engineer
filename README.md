@@ -1,8 +1,11 @@
 # HCL Technical Assessment 2 — Solutions and Implementation Guide
 
-**Candidate:** CVV ANAND  
+**Candidate:** CVV ANAND
+
 **Assessment:** HCL Assessment
+
 **HCLID:** HCLTFP2297504
+
 **Focus areas:** Advanced SQL, Linux, PySpark Data Engineering, AWS Cloud Services, AWS Step Functions, and Microsoft Azure
 
 ## 📄 Assessment PDF
